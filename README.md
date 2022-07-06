@@ -1,6 +1,6 @@
 #  ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 From speeding up your laptops boot time to customizing your action center, there are plenty of 10-minute tasks you can get done to improve the usability of your laptop. Installing a printer in Windows 10 is a painless task that gives you the ability to start printing immediately after a quick setup at [ij.start.canon](https://setupijstartcann.github.io/). Here's how to add a printer in Windows.
 
